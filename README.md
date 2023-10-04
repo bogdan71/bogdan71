@@ -1,6 +1,6 @@
 - 👋 Hi, I’m bogdan
 - 👀 I’m interested in .net core, kentico, docker, devops
-- 🌱 I’m currently learning Kentico 13
+- 🌱 I’m currently developing with Kentico 13
 - 💞️ I’m looking to collaborate on 
 - 📫 
 
