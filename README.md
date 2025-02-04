@@ -1,7 +1,7 @@
 - 👋 Hi, I’m bogdan
 - 👀 I’m interested in .net core, kentico, docker, devops
 - 🌱 I’m currently developing with Kentico 13
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on React, C#, aspire, dotnet
 - 📫 
 
 <!---
